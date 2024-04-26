@@ -32,6 +32,7 @@
 		B45F392A2BDBBB6200FEB48E /* BibleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45F39292BDBBB6200FEB48E /* BibleView.swift */; };
 		B45F392C2BDBBB8800FEB48E /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45F392B2BDBBB8800FEB48E /* ProfileView.swift */; };
 		B45F392E2BDBBBAA00FEB48E /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45F392D2BDBBBAA00FEB48E /* MainTabView.swift */; };
+		B45F39312BDBBE3000FEB48E /* Version.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45F39302BDBBE3000FEB48E /* Version.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		B45F39292BDBBB6200FEB48E /* BibleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BibleView.swift; sourceTree = "<group>"; };
 		B45F392B2BDBBB8800FEB48E /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		B45F392D2BDBBBAA00FEB48E /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		B45F39302BDBBE3000FEB48E /* Version.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Version.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				B45F39042BDBA6AC00FEB48E /* Verse.swift */,
 				B45F39062BDBA6BA00FEB48E /* Chapter.swift */,
 				B45F39132BDBACA300FEB48E /* Daily.swift */,
+				B45F39302BDBBE3000FEB48E /* Version.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				B45F39012BDBA68200FEB48E /* BooksList.swift in Sources */,
 				B45F39122BDBAC1A00FEB48E /* DailyListView.swift in Sources */,
 				B45F39072BDBA6BA00FEB48E /* Chapter.swift in Sources */,
+				B45F39312BDBBE3000FEB48E /* Version.swift in Sources */,
 				B45F392C2BDBBB8800FEB48E /* ProfileView.swift in Sources */,
 				B45F38F42BDBA63E00FEB48E /* ContentView.swift in Sources */,
 				B45F390D2BDBAA5100FEB48E /* RouterDestination.swift in Sources */,

@@ -9,8 +9,8 @@ import Foundation
 
 import Foundation
 
-struct Verse: Identifiable {
-    let id: String
+struct Verse: Codable, Identifiable {
+    let id: Int
     let number: Int
     let study: String?
     let verse: String

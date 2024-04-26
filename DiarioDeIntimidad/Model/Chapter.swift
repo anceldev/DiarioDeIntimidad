@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Chapter {
+struct Chapter: Codable {
     let testament: String
     let name: String
     let numChapters: Int

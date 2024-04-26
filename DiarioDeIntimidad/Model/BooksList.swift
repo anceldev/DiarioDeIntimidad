@@ -9,7 +9,7 @@ import Foundation
 
 import Foundation
 
-enum ListBooks: String, CaseIterable, Identifiable {
+enum BooksList: String, CaseIterable, Identifiable {
     case genesis
     case exodo
     case levitico
